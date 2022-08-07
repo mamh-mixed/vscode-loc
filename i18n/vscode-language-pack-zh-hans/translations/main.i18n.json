@@ -6552,7 +6552,7 @@
 			"mergeEditor.remainingConflicts": "剩余 {0} 个冲突"
 		},
 		"vs/workbench/contrib/mergeEditor/browser/view/mergeEditor": {
-			"editor.mergeEditor.label": "Merge Editor",
+			"editor.mergeEditor.label": "合并编辑器",
 			"input1": "输入 1",
 			"input2": "输入 2",
 			"mergeEditor": "文本合并编辑器",

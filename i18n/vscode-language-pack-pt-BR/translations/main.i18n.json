@@ -6552,7 +6552,7 @@
 			"mergeEditor.remainingConflicts": "{0} Conflito Restante"
 		},
 		"vs/workbench/contrib/mergeEditor/browser/view/mergeEditor": {
-			"editor.mergeEditor.label": "Merge Editor",
+			"editor.mergeEditor.label": "Editor de Mesclagem",
 			"input1": "Entrada 1",
 			"input2": "Entrada 2",
 			"mergeEditor": "Editor de Mesclagem de Texto",

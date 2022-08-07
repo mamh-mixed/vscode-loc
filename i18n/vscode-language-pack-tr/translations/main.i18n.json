@@ -6552,7 +6552,7 @@
 			"mergeEditor.remainingConflicts": "{0} Çakışma Kaldı"
 		},
 		"vs/workbench/contrib/mergeEditor/browser/view/mergeEditor": {
-			"editor.mergeEditor.label": "Merge Editor",
+			"editor.mergeEditor.label": "Birleştirme Düzenleyicisi",
 			"input1": "Giriş 1",
 			"input2": "Giriş 2",
 			"mergeEditor": "Metin Birleştirme Düzenleyicisi",

@@ -6552,7 +6552,7 @@
 			"mergeEditor.remainingConflicts": "Pozostał {0} konflikt"
 		},
 		"vs/workbench/contrib/mergeEditor/browser/view/mergeEditor": {
-			"editor.mergeEditor.label": "Merge Editor",
+			"editor.mergeEditor.label": "Edytor scalania",
 			"input1": "Dane wejściowe 1",
 			"input2": "Dane wejściowe 2",
 			"mergeEditor": "Edytor scalania tekstu",

@@ -6552,7 +6552,7 @@
 			"mergeEditor.remainingConflicts": "{0} Zbývající konflikt"
 		},
 		"vs/workbench/contrib/mergeEditor/browser/view/mergeEditor": {
-			"editor.mergeEditor.label": "Merge Editor",
+			"editor.mergeEditor.label": "Editor slučování",
 			"input1": "Vstup 1",
 			"input2": "Vstup 2",
 			"mergeEditor": "Editor sloučení textu",

@@ -6552,7 +6552,7 @@
 			"mergeEditor.remainingConflicts": "{0} 個の残りの競合"
 		},
 		"vs/workbench/contrib/mergeEditor/browser/view/mergeEditor": {
-			"editor.mergeEditor.label": "Merge Editor",
+			"editor.mergeEditor.label": "マージ エディター",
 			"input1": "入力 1",
 			"input2": "入力 2",
 			"mergeEditor": "テキスト マージ エディター",
